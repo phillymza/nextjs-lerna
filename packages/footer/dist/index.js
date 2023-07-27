@@ -9,7 +9,7 @@ function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'defau
 var React__default = /*#__PURE__*/_interopDefaultLegacy(React);
 
 function Footer() {
-    return React__default["default"].createElement("footer", { style: { textAlign: 'center' } }, "This is a very powerful footer");
+    return React__default["default"].createElement("footer", { style: { textAlign: 'center', padding: 25 } }, "This is a very powerful footer");
 }
 
 exports.Footer = Footer;
